@@ -69,7 +69,7 @@ li {
 
 }
 .imagen {
-    width: 500px;
+    width: 600px;
     text-align: center;
 }
 
@@ -88,9 +88,9 @@ li {
 }
 
 .imagenesMerey {
-width: 1500px;
-display: grid;
-grid-template-columns: 40% 60%;
+    width: 1500px;
+    display: grid;
+    grid-template-columns: 40% 60%;
 
 }
 
@@ -101,9 +101,6 @@ grid-template-columns: 40% 60%;
     flex-direction: column;
 }
 
-.mereyArbol {
- width: 500px;
- }
 
 .botonWhatsapp img {
     width: 70px;
@@ -131,3 +128,7 @@ grid-template-columns: 40% 60%;
     text-align: center;
 }
 
+.carrusel {
+    justify-content: center;
+    text-align: center;
+}

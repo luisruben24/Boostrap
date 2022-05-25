@@ -42,6 +42,7 @@ section {
 
 h2 {
     font-size: 2rem;
+    text-align: center;
 }
 
 section  {
@@ -144,4 +145,18 @@ li {
     font-weight: bold;
     text-align: center;
     color: #712a49;
+}
+
+/* MODAL */
+
+.colorBoton {
+    background-color: #712a49;
+    color: aliceblue;
+}
+
+.row {
+    border: 2rem;
+    font-size: 3rem;
+    font-weight: bold;
+    color: black;
 }
